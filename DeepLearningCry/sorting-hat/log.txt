@@ -1,0 +1,91 @@
+Archive:  /Users/rohan/Desktop/BME/panotti/sorting-hat/.//Samples.zip
+   creating: Samples/
+  inflating: Samples/.DS_Store       
+   creating: Samples/bellypain/
+  inflating: Samples/bellypain/.DS_Store  
+  inflating: Samples/bellypain/999bf14b-e417-4b44-b746-9253f81efe38-1430974001343-1.7-m-26-bp.wav  
+  inflating: Samples/bellypain/C421C6FE-DFEE-4080-8AEA-848E7CE4756B-1430548333-1.0-f-26-bp.wav  
+  inflating: Samples/bellypain/d6cda191-4962-4308-9a36-46d5648a95ed-1431159262344-1.7-m-04-bp.wav  
+  inflating: Samples/bellypain/643D64AD-B711-469A-AF69-55C0D5D3E30F-1430138524-1.0-m-72-bp.wav  
+  inflating: Samples/bellypain/643D64AD-B711-469A-AF69-55C0D5D3E30F-1430138647-1.0-m-72-bp.wav  
+  inflating: Samples/bellypain/643D64AD-B711-469A-AF69-55C0D5D3E30F-1430138495-1.0-m-72-bp.wav  
+  inflating: Samples/bellypain/643D64AD-B711-469A-AF69-55C0D5D3E30F-1430138506-1.0-m-72-bp.wav  
+  inflating: Samples/bellypain/ae5f103b-5fee-442f-bb1b-d9d0570c46ab-1431533857965-1.7-m-26-bp.wav  
+  inflating: Samples/bellypain/643D64AD-B711-469A-AF69-55C0D5D3E30F-1430138536-1.0-m-72-bp.wav  
+  inflating: Samples/bellypain/643D64AD-B711-469A-AF69-55C0D5D3E30F-1430138480-1.0-m-72-bp.wav  
+  inflating: Samples/bellypain/643D64AD-B711-469A-AF69-55C0D5D3E30F-1430138591-1.0-m-72-bp.wav  
+  inflating: Samples/bellypain/643D64AD-B711-469A-AF69-55C0D5D3E30F-1430138514-1.0-m-72-bp.wav  
+  inflating: Samples/bellypain/69BDA5D6-0276-4462-9BF7-951799563728-1436936185-1.1-m-26-bp.wav  
+   creating: __MACOSX/
+   creating: __MACOSX/Samples/
+   creating: __MACOSX/Samples/bellypain/
+  inflating: __MACOSX/Samples/bellypain/._69BDA5D6-0276-4462-9BF7-951799563728-1436936185-1.1-m-26-bp.wav  
+  inflating: Samples/bellypain/549a46d8-9c84-430e-ade8-97eae2bef787-1430130772174-1.7-m-48-bp.wav  
+  inflating: __MACOSX/Samples/bellypain/._549a46d8-9c84-430e-ade8-97eae2bef787-1430130772174-1.7-m-48-bp.wav  
+  inflating: Samples/bellypain/643D64AD-B711-469A-AF69-55C0D5D3E30F-1430138545-1.0-m-72-bp.wav  
+   creating: Samples/burp/
+  inflating: Samples/burp/7E4B9C14-F955-4BED-9B03-7F3096A6CBFF-1430232208-1.0-f-26-bu.wav  
+  inflating: Samples/burp/7E4B9C14-F955-4BED-9B03-7F3096A6CBFF-1430540826-1.0-f-26-bu.wav  
+  inflating: Samples/burp/999bf14b-e417-4b44-b746-9253f81efe38-1430972820020-1.7-m-26-bu.wav  
+  inflating: Samples/burp/5afc6a14-a9d8-45f8-b31d-c79dd87cc8c6-1430757039803-1.7-m-48-bu.wav  
+  inflating: Samples/burp/79FF400A-97E2-4701-987D-C7C850D5523C-1430089648-1.0-f-48-bu.wav  
+  inflating: Samples/burp/F24DE44B-762C-4149-AC92-96A5E57ED118-1430816949-1.0-m-04-bu.wav  
+  inflating: Samples/burp/af30880e-5f98-4dc0-b37a-be6b21fa0ba3-1431240072536-1.7-m-26-bu.wav  
+  inflating: Samples/burp/efd13da0-d40e-48bc-b14e-dee28af4d3c6-1430728096874-1.7-f-72-bu.wav  
+   creating: Samples/hungry/
+  inflating: Samples/hungry/.DS_Store  
+  inflating: Samples/hungry/AE02C934-F4E5-4C73-818D-56AA6887EC18-1430279441-1.0-m-26-hu.wav  
+   creating: __MACOSX/Samples/hungry/
+  inflating: __MACOSX/Samples/hungry/._AE02C934-F4E5-4C73-818D-56AA6887EC18-1430279441-1.0-m-26-hu.wav  
+  inflating: Samples/hungry/0F4B1065-4012-47C8-88B7-ACE11B1A536E-1430038775-1.0-m-04-hu.wav  
+  inflating: __MACOSX/Samples/hungry/._0F4B1065-4012-47C8-88B7-ACE11B1A536E-1430038775-1.0-m-04-hu.wav  
+  inflating: Samples/hungry/10A40438-09AA-4A21-83B4-8119F03F7A11-1430848101-1.0-f-26-hu.wav  
+  inflating: __MACOSX/Samples/hungry/._10A40438-09AA-4A21-83B4-8119F03F7A11-1430848101-1.0-f-26-hu.wav  
+  inflating: Samples/hungry/FF2CD2F6-404D-4626-8718-6E6C751F63B8-1431104346-1.0-m-04-hu.wav  
+  inflating: __MACOSX/Samples/hungry/._FF2CD2F6-404D-4626-8718-6E6C751F63B8-1431104346-1.0-m-04-hu.wav  
+  inflating: Samples/hungry/1309B82C-F146-46F0-A723-45345AFA6EA8-1430059849-1.0-f-04-hu.wav  
+  inflating: __MACOSX/Samples/hungry/._1309B82C-F146-46F0-A723-45345AFA6EA8-1430059849-1.0-f-04-hu.wav  
+  inflating: Samples/hungry/090C15A8-5406-4EA5-97A3-81F6527227C0-1430147515-1.0-m-72-hu.wav  
+  inflating: __MACOSX/Samples/hungry/._090C15A8-5406-4EA5-97A3-81F6527227C0-1430147515-1.0-m-72-hu.wav  
+  inflating: Samples/hungry/FF482278-24C9-4FB0-A7BE-FD92D1FE17B4-1430028319-1.0-m-26-hu.wav  
+  inflating: __MACOSX/Samples/hungry/._FF482278-24C9-4FB0-A7BE-FD92D1FE17B4-1430028319-1.0-m-26-hu.wav  
+  inflating: Samples/hungry/FF2CD2F6-404D-4626-8718-6E6C751F63B8-1431104360-1.0-m-04-hu.wav  
+  inflating: __MACOSX/Samples/hungry/._FF2CD2F6-404D-4626-8718-6E6C751F63B8-1431104360-1.0-m-04-hu.wav  
+  inflating: Samples/hungry/FF9924CF-5854-4B70-AD06-5BC3ED07534C-1430038204-1.0-f-04-hu.wav  
+  inflating: __MACOSX/Samples/hungry/._FF9924CF-5854-4B70-AD06-5BC3ED07534C-1430038204-1.0-f-04-hu.wav  
+  inflating: Samples/hungry/10A40438-09AA-4A21-83B4-8119F03F7A11-1430848060-1.0-f-26-hu.wav  
+  inflating: __MACOSX/Samples/hungry/._10A40438-09AA-4A21-83B4-8119F03F7A11-1430848060-1.0-f-26-hu.wav  
+  inflating: Samples/hungry/026895D0-6B93-4D1F-846F-AA279AD33991-1436865240-1.1-m-04-hu.wav  
+  inflating: __MACOSX/Samples/hungry/._026895D0-6B93-4D1F-846F-AA279AD33991-1436865240-1.1-m-04-hu.wav  
+  inflating: Samples/hungry/090C15A8-5406-4EA5-97A3-81F6527227C0-1430147582-1.0-m-72-hu.wav  
+  inflating: __MACOSX/Samples/hungry/._090C15A8-5406-4EA5-97A3-81F6527227C0-1430147582-1.0-m-72-hu.wav  
+  inflating: Samples/hungry/045C5483-69E1-4BEC-B1D8-9286D174B9B2-1430102996-1.0-m-04-hu.wav  
+  inflating: __MACOSX/Samples/hungry/._045C5483-69E1-4BEC-B1D8-9286D174B9B2-1430102996-1.0-m-04-hu.wav  
+  inflating: Samples/hungry/FF2CD2F6-404D-4626-8718-6E6C751F63B8-1431104337-1.0-m-04-hu.wav  
+  inflating: __MACOSX/Samples/hungry/._FF2CD2F6-404D-4626-8718-6E6C751F63B8-1431104337-1.0-m-04-hu.wav  
+  inflating: Samples/hungry/FF2CD2F6-404D-4626-8718-6E6C751F63B8-1431104396-1.0-m-04-hu.wav  
+  inflating: __MACOSX/Samples/hungry/._FF2CD2F6-404D-4626-8718-6E6C751F63B8-1431104396-1.0-m-04-hu.wav  
+ Will be resampling at 44100 Hz
+ Will be imposing 80-20 (Train-Test) split
+ Sequential ordering
+ Finding max shape...
+ Padding all files with silence to fit shape:
+              Channels : 1
+              Samples  : 176400
+          
+ 3 classes.  class_names =  ['bellypain', 'burp', 'hungry']
+ 4 CPUs detected: Parallel execution across 4 CPUs
+
+Making directory  Preproc/Train/bellypain
+
+Making directory  Preproc/Train/burp
+ Processing class 1/3: 'bellypain', File 1/15: Samples/./bellypain/549a46d8-9c84-430e-ade8-97eae2bef787-1430130772174-1.7-m-48-bp.wav                              Processing class 1/3: 'bellypain', File 15/15: Samples/./bellypain/d6cda191-4962-4308-9a36-46d5648a95ed-1431159262344-1.7-m-04-bp.wav                             
+Making directory  Preproc/Train/hungry
+
+ Processing class 3/3: 'hungry', File 1/15: Samples/./hungry/026895D0-6B93-4D1F-846F-AA279AD33991-1436865240-1.1-m-04-hu.wav                             class_names =  ['bellypain', 'burp', 'hungry']
+       total files =  30 , going to load total_load =  0
+total files =  30 , going to load total_load =  0
+   get_sample_dimensions: 643D64AD-B711-469A-AF69-55C0D5D3E30F-1430138545-1.0-m-72-bp.wav.npz: melgram.shape =  (1, 96, 345, 1)
+ melgram dimensions:  (1, 96, 345, 1)
+
+ Loading class 1/3: 'bellypain', File 1/12: Preproc/Train/bellypain/643D64AD-B711-469A-AF69-55C0D5D3E30F-1430138545-1.0-m-72-bp.wav.npz                  
